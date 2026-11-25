@@ -1,0 +1,6 @@
+{
+  "name": "The Cyber Dockyard — Arena 02",
+  "description": "Photorealistic 3D cyberpunk industrial dockyard fighting game arena built in Three.js with PBR wet reflections, multi-angle cameras, 5-layer architecture, dual lighting moods, and GLB export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
